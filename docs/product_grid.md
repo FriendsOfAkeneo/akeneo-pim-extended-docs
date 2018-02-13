@@ -1,4 +1,4 @@
-Customize Akeneo 2.1 product grid
+Akeneo 2.1: Customize existing product grid
 =======================
 
 NOTE: This document contains information collected during the fast investigation
